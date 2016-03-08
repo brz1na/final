@@ -30,12 +30,12 @@ Slider
 -------------------------------- */
 .cd-slider-wrapper {
   position: relative;
-  height: 85vh;
+  height: 74vh;
   padding: 10px;
 }
 @media only screen and (min-width: 900px) {
  .cd-slider-wrapper {
-    padding: 30px 160px 88px 160px;
+    padding: 30px 180px 116px 180px;
 }
 }
 
