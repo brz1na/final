@@ -7,7 +7,8 @@ form,fieldset,input,textarea,p,blockquote,th,td {
     margin: 0;
 }
 a{
-	text-decoration:none;
+	color:white!important;
+	text-decoration:none!important;
 }
 table {
     border-spacing: 0;
